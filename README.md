@@ -1,39 +1,22 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+The SS Edmund Fitzgerald
+This website is designed to provide an overview on the SS Edmund Fitzgerald to people interested in ships, unsolved mysteries, natural disasters and storms. The website is designed to be accessible to people not already familliar with the maritime shipping industry and its aim is to give an introduction to maritime accidents and shipwrecks. 
 
-Welcome,
+Features
+Nav Bar
+The nav bar includes 3 sections: Career, Sinking, Search, which are ordered to tell the reader the story of thre SS Edmund Fitzgerald in a linear fashion, and each of the 3 nav bar elements will bring the reader to its respective section upon being clicked. This allows the reader ease of access and allows them to read the particular section which interests them immediately.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Hero Image and Header
+The Header and Hero Image are immediately visible upon the website loading and allows the reader to understand what the site is giving them information about what the website is about.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+Career Section
+The career section is designed to give the reader a short introduction to the construction and launching of the SS Edmund Fitzgerald, as well as giving them some information about the jobs the ship was used for.
 
-## Codeanywhere Reminders
+Sinking Section
+The sinking section gives the reader an account of the SS Edmund Fitzgeralds final voyage, and describes the conditions on the Lake that night as well as some accounts of the ships final moments.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Search Section
+The search section describes the aftermath of the SS Edmund Fitzgeralds sinking, and the search effort and subsequent legislation to prevent divers tampering with the wreck site.
 
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+Testing
+Validator Testing
+HTML: 
