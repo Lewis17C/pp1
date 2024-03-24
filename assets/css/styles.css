@@ -97,7 +97,8 @@ li{
 #video-playback {
     height: 50vh;
     width: 50vw;
-    text-align: right;
+    text-align: center;
+    display:block;
 }
 
 #video-header {
