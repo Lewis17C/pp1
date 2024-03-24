@@ -19,4 +19,8 @@ The search section describes the aftermath of the SS Edmund Fitzgeralds sinking,
 
 Testing
 Validator Testing
-HTML: 
+HTML: Passed W3C HTML validation
+CSS: Passed W3C Jigsaw CSS validation
+
+Deployment
+
