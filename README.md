@@ -23,4 +23,10 @@ HTML: Passed W3C HTML validation
 CSS: Passed W3C Jigsaw CSS validation
 
 Deployment
+The website was deployed using Github Pages. I deployed the website by navigating to the settings tab within the repository, then within the pages section, selecting "deploy from a branch" and deploying from the main branch before saving. This link will bring yo to the live website:  https://lewis17c.github.io/pp1/
+
+Credits
+The website was inspired by the Great Lakes Shipwreck  Museum, this website was used as a source for much of the information on the website.
+The social media icons in the footer were sourced using Font Awesome.
+The Hero Image was also sourced from the Great Lakes Shipwreck Museum website.
 
