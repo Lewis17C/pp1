@@ -8,14 +8,20 @@ The nav bar includes 3 sections: Career, Sinking, Search, which are ordered to t
 Hero Image and Header
 The Header and Hero Image are immediately visible upon the website loading and allows the reader to understand what the site is giving them information about what the website is about.
 
+![Screenshot 2024-06-30 230623](https://github.com/Lewis17C/pp1/assets/141966350/52c47f33-aa15-45fc-9dac-bb0dda961e68)
+
 Career Section
 The career section is designed to give the reader a short introduction to the construction and launching of the SS Edmund Fitzgerald, as well as giving them some information about the jobs the ship was used for.
 
 Sinking Section
 The sinking section gives the reader an account of the SS Edmund Fitzgeralds final voyage, and describes the conditions on the Lake that night as well as some accounts of the ships final moments.
 
+![Screenshot 2024-06-30 230703](https://github.com/Lewis17C/pp1/assets/141966350/b56eaa0e-f4dc-4ec5-9b57-bd395f1169bd)
+
 Search Section
 The search section describes the aftermath of the SS Edmund Fitzgeralds sinking, and the search effort and subsequent legislation to prevent divers tampering with the wreck site.
+
+![Screenshot 2024-06-30 230728](https://github.com/Lewis17C/pp1/assets/141966350/4a0a2e97-ecdd-498d-a7c8-978e9c3e4099)
 
 Testing
 Validator Testing
