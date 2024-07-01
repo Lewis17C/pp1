@@ -1,3 +1,4 @@
+
 The SS Edmund Fitzgerald
 This website is designed to provide an overview on the SS Edmund Fitzgerald to people interested in ships, unsolved mysteries, natural disasters and storms. The website is designed to be accessible to people not already familliar with the maritime shipping industry and its aim is to give an introduction to maritime accidents and shipwrecks. 
 
@@ -26,7 +27,11 @@ The search section describes the aftermath of the SS Edmund Fitzgeralds sinking,
 Testing
 Validator Testing
 HTML: Passed W3C HTML validation
+![Screenshot 2024-07-01 000348](https://github.com/Lewis17C/pp1/assets/141966350/90bc95df-efe6-42ad-bfe7-79e31acbb2a6)
+
 CSS: Passed W3C Jigsaw CSS validation
+![Screenshot 2024-07-01 000455](https://github.com/Lewis17C/pp1/assets/141966350/61ea8f45-1966-4c7a-84ab-29622356d52f)
+
 
 Deployment
 The website was deployed using Github Pages. I deployed the website by navigating to the settings tab within the repository, then within the pages section, selecting "deploy from a branch" and deploying from the main branch before saving. This link will bring yo to the live website:  https://lewis17c.github.io/pp1/
